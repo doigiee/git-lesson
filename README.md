@@ -1,6 +1,8 @@
 # First Repo!
 
-This is a test repo for the github lesson
+# Second repo! 
+
+This is the first change to this file test repo for the github lesson
 
 ```bash
 ls -la
@@ -15,4 +17,4 @@ mkdir foo
 - Two
 - Three
 
-Hello world
+Hello world! How are you?
